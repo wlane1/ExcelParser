@@ -1,0 +1,8 @@
+c:\users\wlane\documents\visual studio 2013\Projects\ExcelParser\ExcelParser\obj\Debug\ExcelParser.csprojResolveAssemblyReference.cache
+C:\Users\wlane\Documents\Visual Studio 2013\Projects\ExcelParser\ExcelParser\bin\Debug\ExcelParser.exe.config
+C:\Users\wlane\Documents\Visual Studio 2013\Projects\ExcelParser\ExcelParser\bin\Debug\ExcelParser.exe
+C:\Users\wlane\Documents\Visual Studio 2013\Projects\ExcelParser\ExcelParser\bin\Debug\ExcelParser.pdb
+C:\Users\wlane\Documents\Visual Studio 2013\Projects\ExcelParser\ExcelParser\bin\Debug\FileHelpers.dll
+C:\Users\wlane\Documents\Visual Studio 2013\Projects\ExcelParser\ExcelParser\bin\Debug\FileHelpers.xml
+C:\Users\wlane\Documents\Visual Studio 2013\Projects\ExcelParser\ExcelParser\obj\Debug\ExcelParser.exe
+C:\Users\wlane\Documents\Visual Studio 2013\Projects\ExcelParser\ExcelParser\obj\Debug\ExcelParser.pdb
